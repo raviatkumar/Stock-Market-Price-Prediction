@@ -1,3 +1,5 @@
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Stock-Market-Price-Prediction/main/Image/Stock%20Market%20Prediction.jpg)
+
 ## Problem Statement
 
 The dataset comprises historical daily prices for stocks and ETFs traded on NASDAQ, sourced from Yahoo Finance through the yfinance Python package. Spanning up to April 1, 2020, it includes essential fields such as opening and closing prices, highs and lows, adjusted close prices, and trading volumes. Organized into ETFs and stocks folders, each file is named after the corresponding ticker symbol. Additional metadata, such as full names, is available in symbols_valid_meta.csv. The dataset prompts exploration of diverse problem statements, including stock price prediction, market trend analysis, volatility prediction, trading strategy optimization, sector-wise performance analysis, external factors' impact, ETF flow prediction, and risk analysis. These tasks cater to researchers, analysts, and machine learning practitioners keen on deciphering financial market dynamics.
